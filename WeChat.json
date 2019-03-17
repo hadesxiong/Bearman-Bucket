@@ -2,19 +2,4 @@
     "version":"2.6.7",
     "url":"https://dlglobal.qq.com/weixin/Windows/WeChat_C1018.exe",
     "hash":"6f4ee8afbbcf9b6341c2a49519348801b5ca021b44c0045cb41156a8f2d4a53f",
-    "installer": {
-        "script": [
-            "$file = Resolve-Path \"$dir\\$fname\"",
-            "& \"$file\" /Silent",
-            "    # Kill opened WeChat",
-            "$done = $false",
-            "do {",
-            "    if (Get-Process Spotify -ErrorAction SilentlyContinue) {",
-            "        Stop-Process -Name WeChat",
-            "        $done = $true",
-            "    }",
-            "    Start-Sleep -Seconds 5",
-            "} until ($done)"
-        ]
-    }
 }
