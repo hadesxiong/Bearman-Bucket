@@ -2,6 +2,6 @@
     "homepage":"https://www.mactype.net/",
     "description":"Fonts Tools for Windows",
     "version":"2018.1-beta5",
-    "url":"http://www.mactype.net/station/Release/MacTypeInstaller_2017_0628_0.exe#/dl.7z",
+    "url":"https://github.com/snowie2000/mactype/releases/download/2018.1-beta5/MacTypeInstaller_2018.1-beta5.exe",
     "install":{}
 }
