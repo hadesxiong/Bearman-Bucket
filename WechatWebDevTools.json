@@ -10,5 +10,11 @@
             "url":"https://dldir1.qq.com/WechatWebDev/1.2.0/201902010/wechat_devtools_1.02.1902010_ia32.exe#/dl.7z"
         }
     },
+    "shortcurts":[
+        [
+            "wechatdevtools.exe",
+            "wechatdevtools"
+        ]
+    ],
     "install":{}
 }
