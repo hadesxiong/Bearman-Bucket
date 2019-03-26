@@ -15,8 +15,11 @@
             "PotPlayer.exe",
             "PotPlayer64.exe",
             "PotPlayerMini.exe",
-            "potPlayerMini64.exe",
-            "PotPlayer"
+            "PotPlayerMini64.exe",
+            "PotPlayer",
+            "PotPlaye64",
+            "PotPlayerMini",
+            "PotPlayerMini64"
         ]
     ],
     "install":{}
