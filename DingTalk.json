@@ -3,5 +3,11 @@
     "description":"DingDing",
     "version":"4.6.18.925",
     "url":"https://download.alicdn.com/dingtalk-desktop/win_installer/Release/DingTalk_v4.6.18.925.exe#/dl.7z",
+    "shortcuts":[
+        [
+            "DingTalkLauncher.exe",
+            "DingTalk"
+        ]
+    ],
     "install":{}
 }
