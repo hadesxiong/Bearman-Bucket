@@ -5,7 +5,8 @@
     "url":"http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/6.7.1.9.exe#/dl.7z",
     "shortcuts":[
         [
-            "BaiduNetDisk.exe"
+            "BaiduNetdisk.exe",
+            "BaiduNetdisk"
         ]
     ],
     "install":{}
