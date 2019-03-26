@@ -12,7 +12,10 @@
     },
     "shortcuts":[
         [
-            "potplayer.exe",
+            "Potplayer.exe",
+            "Potplayer64.exe",
+            "PotplayerMini.exe",
+            "potplayerMini64.exe",
             "potplayer"
         ]
     ],
