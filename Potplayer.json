@@ -12,11 +12,11 @@
     },
     "shortcuts":[
         [
-            "Potplayer.exe",
-            "Potplayer64.exe",
-            "PotplayerMini.exe",
-            "potplayerMini64.exe",
-            "potplayer"
+            "PotPlayer.exe",
+            "PotPlayer64.exe",
+            "PotPlayerMini.exe",
+            "potPlayerMini64.exe",
+            "PotPlayer"
         ]
     ],
     "install":{}
