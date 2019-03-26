@@ -3,5 +3,10 @@
     "description":"Downloader for Baidu Net Disk",
     "version":"2.0.6",
     "url":"http://dl.cnponer.com/PanDownload_v2.0.6.zip?key=305b9da7d7a7e2b28b47299e3734d2d3&time=1553606544",
-    "extract_dir":"Pandownload"
+    "extract_dir":"Pandownload",
+    "shortcuts":[
+        [
+            "Pandownload"
+        ]
+    ]
 }
