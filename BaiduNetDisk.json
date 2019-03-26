@@ -1,0 +1,12 @@
+{
+    "homepage":"https://pan.baidu.com/download",
+    "description":"Baidu Net Disk Manage App",
+    "version":"6.7.1",
+    "url":"http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/6.7.1.9.exe#/dl.7z",
+    "shortcuts":[
+        [
+            "BaiduNetDisk.exe"
+        ]
+    ],
+    "install":{}
+}
