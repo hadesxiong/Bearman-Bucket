@@ -3,6 +3,7 @@
     "description":"One Tool for Baidu Net Disk Download",
     "version":"2.0.6",
     "url":"http://pandownload.club/dl/PanDownload_v2.0.6.zip",
+    "extract_dir": "PanDownload",
     "shortcuts":[
         [
             "PanDownload.exe",
