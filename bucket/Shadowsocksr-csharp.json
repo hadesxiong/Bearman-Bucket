@@ -1,0 +1,18 @@
+{
+    "homepage":"https://github.com/shadowsocksrr/shadowsocksr-csharp",
+    "description":"An Internet Tunnel Tool",
+    "version":"4.9.2",
+    "license": "GPL-3.0-only",
+    "url":"https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip",
+    "extract_dir": "Shadowsocksr-csharp",
+    "shortcuts":[
+        [
+            "ShadowsocksR-dotnet4.0.exe",
+            "ShadowsocksR .Net 4.0"
+        ],
+        [
+            "ShadowsocksR-dotnet2.0.exe",
+            "ShadowsocksR .Net 2.0"
+        ]
+    ]
+}
