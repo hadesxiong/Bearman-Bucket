@@ -1,7 +1,7 @@
 {
     "homepage":"https://potplayer.daum.net/",
     "description":"Potplayer, multimedia player",
-    "version":"1.7.17508",
+    "version":"1.7.18346",
     "architecture":{
         "64bit":{
             "url":"https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe#/dl.7z"
