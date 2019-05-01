@@ -1,0 +1,13 @@
+{
+    "homepage":"https://www.axure.com/",
+    "description":"one of the most powerful tools to plan, prototype and hand off to developers, without code.",
+    "versions":"9.0.0.3647",
+    "url":"https://axure.cachefly.net/AxureRP-Setup-Beta.exe#dl.7z",
+    "shortcuts":[
+        [
+            "AxureRP9.exe",
+            "AxureRP9"
+        ]
+    ],
+    "install":{}
+}
