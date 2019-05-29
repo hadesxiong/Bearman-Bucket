@@ -22,7 +22,7 @@ scoop bucket add Bearman-Bucket https://github.com/hadesxiong/Bearman-Bucket
 |        [DingTalk](https://www.dingtalk.com/)        |               DingDing               |     4.6.25.35      |
 |       [PanDownload](https://pandownload.com/)       | One Tool for Baidu Net Disk Download |        2.1.0        |
 |      [PotPlayer](https://potplayer.daum.net/)       |     Potplayer, multimedia player     |      1.7.18346      |
-|         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.6.7        |
+|         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.6.8        |
 
 ## Bugs
 
