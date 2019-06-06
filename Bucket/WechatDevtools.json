@@ -3,13 +3,11 @@
     "description":"A devtool for Wechat MiniProgram",
     "version":"1.02.1904090",
     "url":"https://dldir1.qq.com/WechatWebDev/1.2.0/201904090/wechat_devtools_1.02.1904090_x64.exe#dl.7z",
-    "installer":{},
-    "uninstaller":{},
-    "silent":true,
+    "extract_dir": "WechatDevTools",
     "shortcuts":[
         [
-            "wechatdevtools.exe",
-            "WechatDevtools"
+            "微信web开发者工具.exe",
+            "微信web开发者工具"
         ]
     ]
 }
