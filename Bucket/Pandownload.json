@@ -1,8 +1,8 @@
 {
     "homepage":"https://pandownload.com/",
     "description":"One Tool for Baidu Net Disk Download",
-    "version":"2.1.0",
-    "url":"http://pandownload.club/dl/PanDownload_v2.1.0.zip",
+    "version":"2.1.1",
+    "url":"http://dl.pandownload.club/dl/PanDownload_v2.1.1.zip",
     "extract_dir": "PanDownload",
     "shortcuts":[
         [
