@@ -17,7 +17,7 @@ scoop bucket add Bearman-Bucket https://github.com/hadesxiong/Bearman-Bucket
 |                        Name                         |             Description              |       Version       |
 | :-------------------------------------------------: | :----------------------------------: | :-----------------: |
 | [AirPinPcSender](http://www.waxrain.com/index.html) |      AirPin Sender for Windows       | 2.0.9_R181017_B1939 |
-|   [BaiduNetdisk](https://pan.baidu.com/download)    |       Baidu NetDisk Manage App       |        6.7.3        |
+|   [BaiduNetdisk](https://pan.baidu.com/download)    |       Baidu NetDisk Manage App       |        6.7.4        |
 |        [CloudMusic](https://music.163.com/#)        |       Netease Online Music App       |        2.5.2        |
 |        [DingTalk](https://www.dingtalk.com/)        |               DingDing               |     4.6.25.35      |
 |       [PanDownload](https://pandownload.com/)       | One Tool for Baidu Net Disk Download |        2.1.1        |
