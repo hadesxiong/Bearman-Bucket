@@ -1,8 +1,8 @@
 {
     "homepage":"https://music.163.com/#",
     "description":"Netease Online Music App",
-    "version":"2.5.4",
-    "url":"https://d1.music.126.net/dmusic/c8d2/2019616184543/cloudmusicsetup2.5.4.197709.exe#/dl.7z",
+    "version":"2.5.5",
+    "url":"https://d1.music.126.net/dmusic/4ec1/201978183952/cloudmusicsetup2.5.5.197810.exe#/dl.7z",
     "bin":"cloudmusic.exe",
     "shortcuts":[
         [
