@@ -3,7 +3,7 @@
     "description":"DirectX Repair is the system-level tool software which is designed for addressing the problems in DirectX.",
     "version":"3.8",
     "url":"http://forspeed.onlinedown.net/down/DirectX_Repair-V3_8.zip",
-    "extract_dir": "DirectX Repair",
+    "extract_dir": "DirectXRepair",
     "shortcuts":[
         [
             "DirectX Repair.exe",
