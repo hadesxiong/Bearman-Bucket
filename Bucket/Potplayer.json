@@ -1,13 +1,13 @@
 {
     "homepage":"https://potplayer.daum.net/",
     "description":"Potplayer, multimedia player",
-    "version":"1.7.18346",
+    "version":"1.7.19955",
     "architecture":{
         "64bit":{
-            "url":"https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe#/dl.7z"
+            "url":"https://daumpotplayer.com/wp-content/uploads/2019/08/PotPlayerSetup64.exe#/dl.7z"
         },
         "32bit":{
-            "url":"https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe#dl.7z"
+            "url":"https://daumpotplayer.com/wp-content/uploads/2019/08/PotPlayerSetup.exe#dl.7z"
         }
     },
     "shortcuts":[
