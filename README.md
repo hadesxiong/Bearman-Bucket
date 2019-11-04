@@ -17,12 +17,12 @@ scoop bucket add Bearman-Bucket https://github.com/hadesxiong/Bearman-Bucket
 |                        Name                         |             Description              |       Version       |
 | :-------------------------------------------------: | :----------------------------------: | :-----------------: |
 | [AirPinPcSender](http://www.waxrain.com/index.html) |      AirPin Sender for Windows       | 2.0.9_R181017_B1939 |
-|   [BaiduNetdisk](https://pan.baidu.com/download)    |       Baidu NetDisk Manage App       |        6.7.4        |
-|        [CloudMusic](https://music.163.com/#)        |       Netease Online Music App       |        2.5.5        |
-|        [DingTalk](https://www.dingtalk.com/)        |               DingDing               |     4.7.0.55      |
+|   [BaiduNetdisk](https://pan.baidu.com/download)    |       Baidu NetDisk Manage App       |        6.8.4        |
+|        [CloudMusic](https://music.163.com/#)        |       Netease Online Music App       |        2.6.0        |
+|        [DingTalk](https://www.dingtalk.com/)        |               DingDing               |     4.7.10.1009      |
 |       [PanDownload](https://pandownload.com/)       | One Tool for Baidu Net Disk Download |        2.1.3        |
-|      [PotPlayer](https://potplayer.daum.net/)       |     Potplayer, multimedia player     |      1.7.19955      |
-|         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.6.8        |
+|      [PotPlayer](https://potplayer.daum.net/)       |     Potplayer, multimedia player     |      1.7.20977      |
+|         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.7.1        |
 
 ## Bugs
 
