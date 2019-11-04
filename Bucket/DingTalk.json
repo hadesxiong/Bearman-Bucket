@@ -1,8 +1,8 @@
 {
     "homepage":"https://www.dingtalk.com/",
     "description":"DingDing",
-    "version":"4.7.0.55",
-    "url":"https://download.alicdn.com/dingtalk-desktop/win_installer/Release/DingTalk_v4.7.0.55.exe#/dl.7z",
+    "version":"4.7.10.1009",
+    "url":"https://download.alicdn.com/dingtalk-desktop/win_installer/Release/DingTalk_v4.7.10.1009.exe#/dl.7z",
     "shortcuts":[
         [
             "DingTalkLauncher.exe",
