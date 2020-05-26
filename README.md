@@ -20,7 +20,6 @@ scoop bucket add Bearman-Bucket https://github.com/hadesxiong/Bearman-Bucket
 |   [BaiduNetdisk](https://pan.baidu.com/download)    |       Baidu NetDisk Manage App       |        6.8.4        |
 |        [CloudMusic](https://music.163.com/#)        |       Netease Online Music App       |        2.6.0        |
 |        [DingTalk](https://www.dingtalk.com/)        |               DingDing               |     4.7.10.1009      |
-|       [PanDownload](https://pandownload.com/)       | One Tool for Baidu Net Disk Download |        2.1.3        |
 |      [PotPlayer](https://potplayer.daum.net/)       |     Potplayer, multimedia player     |      1.7.20977      |
 |         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.7.1        |
 
