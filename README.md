@@ -16,7 +16,7 @@ scoop bucket add Bearman-Bucket https://github.com/hadesxiong/Bearman-Bucket
 
 |                        Name                         |             Description              |       Version       |
 | :-------------------------------------------------: | :----------------------------------: | :-----------------: |
-|        [DingTalk Lite](https://www.dingtalk.com/)        |               DingTalk              |    5.1.21.516      |
+|        [DingTalkLite](https://www.dingtalk.com/)        |               DingTalk Lite              |    5.1.21.516      |
 |         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.7.1        |
 |         [magnetW](https://github.com/xiandanin/magnetW)         |    Magnet Tools    |        3.1.1        |
 
