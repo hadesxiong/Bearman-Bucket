@@ -17,11 +17,11 @@ scoop bucket add Bearman-Bucket https://github.com/hadesxiong/Bearman-Bucket
 |                        Name                         |             Description              |       Version       |
 | :-------------------------------------------------: | :----------------------------------: | :-----------------: |
 | [AirPinPcSender](http://www.waxrain.com/index.html) |      AirPin Sender for Windows       | 2.0.9_R181017_B1939 |
-|   [BaiduNetdisk](https://pan.baidu.com/download)    |       Baidu NetDisk Manage App       |        6.8.4        |
 |        [CloudMusic](https://music.163.com/#)        |       Netease Online Music App       |        2.6.0        |
 |        [DingTalk](https://www.dingtalk.com/)        |               DingDing               |     4.7.10.1009      |
 |      [PotPlayer](https://potplayer.daum.net/)       |     Potplayer, multimedia player     |      1.7.20977      |
 |         [WeChat](https://pc.weixin.qq.com/)         |    Tencent Wechat App for Windows    |        2.7.1        |
+|         [magnetW](https://github.com/xiandanin/magnetW)         |    magnet tools    |        3.1.1        |
 
 ## Bugs
 
