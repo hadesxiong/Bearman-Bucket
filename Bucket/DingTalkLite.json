@@ -5,8 +5,8 @@
     "url":"https://dtapp-pub.dingtalk.com/dingtalk-desktop/dingtalk_lite/Release/DingTalkLite_v5.1.21.516.exe#/dl.7z",
     "shortcuts":[
         [
-            "DingTalk Lite Launcher.exe",
-            "DingTalk Lite"
+            "DingTalkLauncher.exe",
+            "DingTalkLauncher"
         ]
     ],
     "install":{}
