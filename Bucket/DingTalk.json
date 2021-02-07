@@ -1,12 +1,12 @@
 {
     "homepage":"https://www.dingtalk.com/",
-    "description":"DingDing",
-    "version":"5.1.1.30",
-    "url":"https://download.alicdn.com/dingtalk-desktop/win_installer/Release/DingTalk_v5.1.1.30.exe#/dl.7z",
+    "description":"DingTalk Lite",
+    "version":"5.1.21.516",
+    "url":"https://dtapp-pub.dingtalk.com/dingtalk-desktop/dingtalk_lite/Release/DingTalkLite_v5.1.21.516.exe#/dl.7z",
     "shortcuts":[
         [
-            "DingTalkLauncher.exe",
-            "DingTalk"
+            "DingTalk Lite Launcher.exe",
+            "DingTalk Lite"
         ]
     ],
     "install":{}
